@@ -1,1 +1,1 @@
-Explored datasets using Python (pandas, NumPy, Matplotlib, Seaborn); performed cleaning, statistical analysis, and visual storytelling.
+Data Analysis Pipeline: Utilized Python's robust ecosystem (Pandas and NumPy) for comprehensive data cleaning and statistical investigation. Insights were effectively communicated through visual storytelling, leveraging Matplotlib and Seaborn for compelling data visualization.
